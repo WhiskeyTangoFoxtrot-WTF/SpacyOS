@@ -1,0 +1,306 @@
+//start action log for SpacyOS 30-11-2024//
+
+2024-12-03 16:40:51: User logged in. IP: 192.168.1.19
+2024-12-03 16:41:13: Displayed help.
+2024-12-03 16:49:19: User logged in. IP: 192.168.1.19
+2024-12-03 16:49:21: Displayed help.
+2024-12-03 16:49:36: Unknown command executed: ping
+2024-12-03 16:49:45: Pinged me
+2024-12-03 16:49:53: Pinged me
+2024-12-03 16:50:02: Clock command executed.
+2024-12-03 16:52:49: User logged in. IP: 192.168.1.19
+2024-12-03 16:52:52: Displayed help.
+2024-12-03 16:55:53: User logged in. IP: 192.168.1.19
+2024-12-03 16:57:07: User logged in. IP: 192.168.1.19
+2024-12-03 16:57:09: Displayed help.
+2024-12-03 17:03:11: User logged in. IP: 192.168.1.19
+2024-12-03 17:03:14: Kill command executed for PID: chrome
+2024-12-03 17:06:47: User logged in. IP: 192.168.1.19
+2024-12-03 17:06:50: Kill command executed for PID: chrome
+2024-12-03 17:07:02: Kill command executed for PID: teams
+2024-12-03 17:07:35: User logged in. IP: 192.168.1.19
+2024-12-03 17:07:37: Displayed help.
+2024-12-03 17:07:47: Resumed process teams
+2024-12-03 17:08:00: Launch command executed for teams
+2024-12-03 17:09:53: User logged in. IP: 192.168.1.19
+2024-12-03 17:09:56: Kill command executed for PID: chrome
+2024-12-03 17:11:16: User logged in. IP: 192.168.1.19
+2024-12-03 17:11:18: Unknown command executed: ping
+2024-12-03 17:11:26: Unknown command executed: 
+2024-12-03 17:11:26: Pinged localhost
+2024-12-03 17:11:47: Tracerouted localhost
+2024-12-03 17:11:59: Pinged localhost
+2024-12-03 17:13:22: User logged in. IP: 192.168.1.19
+2024-12-03 17:13:28: Pinged localhost
+2024-12-03 17:16:33: User logged in. IP: 192.168.1.19
+2024-12-03 17:16:34: Unknown command executed: ping
+2024-12-03 17:16:41: Pinged localhost
+2024-12-03 17:18:59: User logged in. IP: 192.168.1.19
+2024-12-03 17:19:01: Unknown command executed: ping
+2024-12-03 17:19:07: Pinged localhost
+2024-12-03 17:20:21: User logged in. IP: 192.168.1.19
+2024-12-03 17:20:24: Launch command executed for chrome
+2024-12-03 21:19:48: Launch command executed for whatsapp
+2024-12-04 18:55:20: User logged in. IP: 192.168.1.19
+2024-12-04 18:55:24: Kill command executed for PID: spotify
+2024-12-04 18:55:41: List processes command executed.
+2024-12-04 18:55:53: Kill command executed for PID: microsoft edge
+2024-12-04 18:56:09: Kill command executed for PID: edge
+2024-12-04 18:56:17: Kill command executed for PID: file explorer
+2024-12-04 18:56:29: Kill command executed for PID: esplora file
+2024-12-04 18:56:41: Terminal cleared.
+2024-12-04 18:56:42: Displayed help.
+2024-12-04 18:56:52: Pinged localhost
+2024-12-04 18:56:59: Tracerouted localhost
+2024-12-04 18:57:05: Clock command executed.
+2024-12-04 19:01:01: Launch command executed for spotify
+2024-12-04 19:01:15: Exit command initiated.
+2024-12-04 19:01:17: Exited SpacyOS.
+2024-12-04 19:01:20: Unknown command executed: y
+2024-12-04 19:01:22: Exit command initiated.
+2024-12-04 19:01:23: Exited SpacyOS.
+2024-12-04 19:34:35: User logged in. IP: 192.168.1.19
+2024-12-04 19:35:38: User logged in. IP: 192.168.1.19
+2024-12-04 19:35:42: Unknown command executed: 1
+2024-12-04 19:35:46: Unknown command executed: Open file
+2024-12-04 19:35:48: Unknown command executed: 2
+2024-12-04 19:35:49: Unknown command executed: 3
+2024-12-04 19:35:49: Unknown command executed: 4
+2024-12-04 19:39:37: User logged in. IP: 192.168.1.19
+2024-12-04 19:40:08: File explorer closed.
+2024-12-04 19:41:13: User logged in. IP: 192.168.1.19
+2024-12-04 19:41:19: File explorer closed.
+2024-12-04 19:41:34: User logged in. IP: 192.168.1.19
+2024-12-04 19:41:37: File explorer closed.
+2024-12-04 19:41:52: User logged in. IP: 192.168.1.19
+2024-12-04 19:41:56: Unknown command executed: 2
+2024-12-04 19:41:58: Unknown command executed: 1
+2024-12-04 19:41:59: Unknown command executed: 2
+2024-12-04 19:41:59: Unknown command executed: 12
+2024-12-04 19:41:59: Unknown command executed: 23
+2024-12-04 19:41:59: Unknown command executed: 
+2024-12-04 19:42:00: Unknown command executed: 3
+2024-12-04 19:42:01: Unknown command executed: 2212
+2024-12-04 19:42:21: Unknown command executed: open file
+2024-12-04 19:45:48: User logged in. IP: 192.168.1.19
+2024-12-04 19:45:50: File Explorer started
+2024-12-04 19:45:50: Displayed files for path: E:\0SpacyOS
+2024-12-04 19:45:50: File explorer closed.
+2024-12-04 19:45:53: Opened file: E:\0SpacyOS\action_log.txt
+2024-12-04 19:50:04: User logged in. IP: 192.168.1.19
+2024-12-04 19:50:06: Unknown command executed: h-infp
+2024-12-04 19:50:10: Displayed hardware info.
+2024-12-04 19:50:18: File Explorer started
+2024-12-04 19:50:24: Invalid drive entered
+2024-12-04 19:50:29: Displayed files for path: E:\
+2024-12-04 19:50:29: Navigated to drive: E
+2024-12-04 19:50:29: File explorer closed.
+2024-12-04 19:50:51: Created new file: sda.txt.txt
+2024-12-04 19:50:51: Displayed files for path: E:\
+2024-12-04 19:50:55: Created new folder: sdsa
+2024-12-04 19:50:55: Displayed files for path: E:\
+2024-12-04 19:54:38: User logged in. IP: 192.168.1.19
+2024-12-04 19:54:48: File explorer closed.
+2024-12-04 19:59:28: User logged in. IP: 192.168.1.19
+2024-12-04 19:59:33: File explorer closed.
+2024-12-04 20:02:34: User logged in. IP: 192.168.1.19
+2024-12-04 20:02:39: Drive selected: E
+2024-12-04 20:02:39: File explorer closed.
+2024-12-04 20:02:46: Attempted rename but no file selected.
+2024-12-04 20:02:52: Renamed E:\sasad to E:\sdsa
+2024-12-04 20:31:05: User logged in. IP: 192.168.1.19
+2024-12-04 20:31:06: Clock command executed.
+2024-12-04 21:53:02: User logged in. IP: 192.168.1.19
+2024-12-04 21:53:06: Shutdown command initiated.
+2024-12-04 21:53:08: Shut down the computer.
+2024-12-07 16:00:02: User logged in. IP: 192.168.1.19
+2024-12-07 16:00:05: Displayed help.
+2024-12-07 16:00:12: Unknown command executed: weather
+2024-12-07 16:02:23: Invalid drive entered.
+2024-12-07 16:19:18: User logged in. IP: 192.168.1.19
+2024-12-07 16:19:20: Displayed help.
+2024-12-07 16:19:25: Showed calendar
+2024-12-07 16:19:32: Drive selected: C
+2024-12-07 16:19:32: File explorer closed.
+2024-12-07 16:19:42: Error creating file C:\sd: [Errno 13] Permission denied: 'C:\\sd'
+2024-12-07 16:19:47: Error creating file C:\sdsa: [Errno 13] Permission denied: 'C:\\sdsa'
+2024-12-07 16:19:58: Renamed C:\Bongo Cat Studios to C:\sdd
+2024-12-07 16:21:32: User logged in. IP: 192.168.1.19
+2024-12-07 16:21:35: Displayed help.
+2024-12-07 16:21:40: SpacyWeather launched.
+2024-12-07 16:23:52: User logged in. IP: 192.168.1.19
+2024-12-07 16:24:20: Displayed help.
+2024-12-07 16:25:07: Drive selected: D
+2024-12-07 16:25:07: File explorer closed.
+2024-12-07 16:25:17: Created file: D:\sdadsadas
+2024-12-07 16:25:19: Created folder: D:\sasdadasd
+2024-12-07 16:25:24: Error deleting D:\saddasdsa: [WinError 5] Accesso negato: 'D:\\saddasdsa'
+2024-12-07 16:25:26: Deleted D:\sd
+2024-12-07 16:25:29: Deleted D:\sdadsadas
+2024-12-07 16:25:32: Error deleting D:\sasdadasd: [WinError 5] Accesso negato: 'D:\\sasdadasd'
+2024-12-07 16:25:42: Pinged localhost
+2024-12-07 16:25:47: Clock command executed.
+2024-12-07 16:41:18: User logged in. IP: 192.168.1.19
+2024-12-07 16:41:31: Displayed help.
+2024-12-07 16:41:51: Drive selected: D
+2024-12-07 16:41:51: File explorer closed.
+2024-12-07 16:41:56: Error deleting D:\saddasdsa: [WinError 5] Accesso negato: 'D:\\saddasdsa'
+2024-12-07 16:41:58: Entered folder: D:\saddasdsa
+2024-12-07 16:42:00: Moved up to: D:\
+2024-12-07 16:42:01: Entered folder: D:\saddasdsa
+2024-12-07 16:42:06: Created file: D:\saddasdsa\saddas.txt
+2024-12-07 17:49:02: User logged in. IP: 172.16.16.126
+2024-12-07 17:49:06: Clock command executed.
+2024-12-07 17:53:07: User logged in. IP: 172.16.16.126
+2024-12-07 17:53:15: Clock command executed.
+2024-12-07 18:02:25: User logged in. IP: 172.16.16.126
+2024-12-07 18:02:50: Displayed hardware info.
+2024-12-07 18:03:38: Launch command executed for visual studio code
+2024-12-07 18:03:55: Cancelled operation.
+2024-12-07 18:04:26: User logged in. IP: 172.16.16.126
+2024-12-07 18:04:29: Launch command executed for code
+2024-12-07 18:09:11: User logged in. IP: 172.16.16.126
+2024-12-07 18:09:12: Displayed help.
+2024-12-07 18:09:28: Calculator Opened.
+2024-12-08 14:47:44: User logged in. IP: 192.168.1.19
+2024-12-08 14:47:47: Clock command executed.
+2024-12-08 14:47:56: Clock command executed.
+2024-12-08 14:48:03: Displayed help.
+2024-12-08 14:48:07: Clock command executed.
+2024-12-08 14:48:13: SpacyWeather launched.
+2024-12-08 14:48:46: User logged in. IP: 192.168.1.19
+2024-12-08 14:48:47: Clock command executed.
+2024-12-08 14:58:12: User logged in. IP: 192.168.1.19
+2024-12-08 14:58:13: Clock command executed.
+2024-12-08 14:58:48: Clock command executed.
+2024-12-08 15:02:02: User logged in. IP: 192.168.1.19
+2024-12-08 15:04:22: User logged in. IP: 192.168.1.19
+2024-12-08 15:04:24: Clock command executed.
+2024-12-08 15:08:03: User logged in. IP: 192.168.1.19
+2024-12-08 15:08:04: Clock command executed.
+2024-12-08 15:11:44: User logged in. IP: 192.168.1.19
+2024-12-08 15:11:50: Converter Opened.
+2024-12-08 15:21:09: User logged in. IP: 192.168.1.19
+2024-12-08 15:21:11: Converter Opened.
+2024-12-08 15:24:16: User logged in. IP: 192.168.1.19
+2024-12-08 15:24:19: Converter Opened.
+2024-12-14 10:54:25: User logged in. IP: 192.168.1.13
+2024-12-14 10:54:26: Opened screenshot system.
+2024-12-14 10:54:26: Opening screenshot system.
+2024-12-14 10:54:46: Exit command initiated.
+2024-12-14 10:54:47: Exited SpacyOS.
+2024-12-14 10:55:37: User logged in. IP: 192.168.1.13
+2024-12-14 10:55:40: Displayed hardware info.
+2024-12-14 10:55:54: Displayed help.
+2024-12-14 10:56:05: Displayed network info
+2024-12-14 10:59:11: User logged in. IP: 192.168.1.13
+2024-12-14 10:59:20: Displayed hardware info.
+2024-12-14 11:01:18: User logged in. IP: 192.168.1.13
+2024-12-14 11:01:23: Displayed hardware info.
+2024-12-14 11:44:49: User logged in. IP: 192.168.1.13
+2024-12-14 11:44:50: Opened screenshot system.
+2024-12-14 11:44:50: Opening screenshot system.
+2024-12-14 11:45:05: Screenshot saved to E:/0SpacyOS/img/dd.png
+2024-12-14 16:55:41: User logged in. IP: 192.168.1.13
+2024-12-14 16:56:17: Displayed help.
+2024-12-14 16:56:33: SpacyWeather launched.
+2024-12-14 16:56:33: SpacyWeather launched.
+2024-12-14 16:58:11: User logged in. IP: 192.168.1.13
+2024-12-14 17:01:08: User logged in. IP: 192.168.1.13
+2024-12-14 17:01:12: DrawingX launched.
+2024-12-14 17:04:48: User logged in. IP: 192.168.1.13
+2024-12-14 17:04:52: SpacyWeather launched.
+2024-12-14 17:04:57: SpacyBroswer launched.
+2024-12-14 17:07:05: User logged in. IP: 192.168.1.13
+2024-12-14 17:07:07: SpacyBroswer launched.
+2024-12-14 18:57:53: User logged in. IP: 172.16.16.106
+2024-12-14 19:03:03: User logged in. IP: 172.16.16.106
+2024-12-14 19:03:08: SpacyBroswer launched.
+2024-12-14 19:39:34: User logged in. IP: 192.168.1.13
+2024-12-14 19:39:36: SpacyBroswer launched.
+2024-12-14 19:41:59: User logged in. IP: 192.168.1.13
+2024-12-14 19:41:59: Unknown command executed: 
+2024-12-14 19:42:05: Unknown command executed: password
+2024-12-14 19:42:11: SpacyBroswer launched.
+2024-12-14 19:45:06: User logged in. IP: 192.168.1.13
+2024-12-14 19:45:09: DrawingX launched.
+2024-12-14 19:46:40: User logged in. IP: 192.168.1.13
+2024-12-14 19:46:44: DrawingX launched.
+2024-12-14 19:47:00: SpacyWeather launched.
+2024-12-14 19:47:14: Displayed help.
+2024-12-14 19:47:17: Opened screenshot system.
+2024-12-14 19:47:17: Opened screenshot system.
+2024-12-14 19:48:10: User logged in. IP: 192.168.1.13
+2024-12-14 19:48:11: Opened screenshot system.
+2024-12-14 19:49:48: User logged in. IP: 192.168.1.13
+2024-12-14 19:49:51: DrawingX launched.
+2024-12-14 19:49:57: SpacyBroswer launched.
+2024-12-14 19:51:23: User logged in. IP: 192.168.1.13
+2024-12-14 19:51:25: SpacyBroswer launched.
+2024-12-14 19:54:12: User logged in. IP: 192.168.1.13
+2024-12-14 19:54:14: Unknown command executed: browser
+2024-12-14 19:57:51: User logged in. IP: 192.168.1.13
+2024-12-14 19:57:52: Unknown command executed: browser
+2024-12-14 19:57:57: Unknown command executed: browser
+2024-12-14 19:58:32: User logged in. IP: 192.168.1.13
+2024-12-14 19:58:33: SpacyBroswer launched.
+2024-12-14 20:02:09: User logged in. IP: 192.168.1.13
+2024-12-14 20:02:11: SpacyBroswer launched.
+2024-12-14 20:02:29: Unknown command executed: y
+2024-12-14 20:03:23: User logged in. IP: 192.168.1.13
+2024-12-14 20:03:34: Unknown command executed: y
+2024-12-14 20:03:36: Unknown command executed: y
+2024-12-14 20:03:36: Unknown command executed: y
+2024-12-14 20:03:38: Unknown command executed: n
+2024-12-14 20:04:41: User logged in. IP: 192.168.1.13
+2024-12-14 20:04:43: Unknown command executed: browser
+2024-12-14 20:06:09: User logged in. IP: 192.168.1.13
+2024-12-14 20:06:22: SpacyBroswer launched.
+2024-12-15 14:32:22: User logged in. IP: 192.168.1.13
+2024-12-15 14:32:29: Displayed hardware info.
+2024-12-15 14:34:31: User logged in. IP: 192.168.1.13
+2024-12-15 14:34:33: Translator opened.
+2024-12-15 14:36:29: User logged in. IP: 192.168.1.13
+2024-12-15 14:36:32: Translator opened.
+2024-12-15 14:37:18: Translator opened.
+2024-12-15 14:39:55: User logged in. IP: 192.168.1.13
+2024-12-15 14:39:59: Displayed hardware info.
+2024-12-20 21:55:11: User logged in. IP: 192.168.1.19
+2024-12-20 21:55:14: Launch command executed for chrome
+2024-12-20 21:55:33: Launch command executed for chrome
+2024-12-20 23:35:37: User logged in. IP: 192.168.1.19
+2024-12-20 23:35:48: Launch command executed for chrome
+2024-12-21 17:57:13: User logged in. IP: 172.16.16.126
+2024-12-21 17:57:16: Launch command executed for chrome
+2024-12-21 18:09:44: User logged in. IP: 172.16.16.126
+2024-12-21 18:09:47: Launch command executed for chrome
+2024-12-21 18:50:15: User logged in. IP: 172.16.16.126
+2024-12-21 18:50:19: Launch command executed for chrome
+2024-12-21 22:47:45: User logged in. IP: 192.168.1.19
+2024-12-21 22:47:58: Unknown command executed: helo
+2024-12-21 22:48:04: Displayed help.
+2024-12-21 22:48:40: Displayed hardware info.
+2024-12-21 22:48:49: Displayed help.
+2024-12-21 22:49:12: List processes command executed.
+2024-12-21 22:50:46: User logged in. IP: 192.168.1.19
+2024-12-21 22:50:53: Displayed help.
+2024-12-21 22:59:38: User logged in. IP: 192.168.1.19
+2024-12-21 22:59:46: Displayed help.
+2024-12-21 23:07:35: User logged in. IP: 192.168.1.19
+2024-12-21 23:07:36: Unknown command executed: 
+2024-12-21 23:07:38: Displayed help.
+2024-12-21 23:07:56: List processes command executed.
+2025-01-01 18:46:55: User logged in. IP: 192.168.1.13
+2025-01-01 18:46:59: Displayed help.
+2025-01-01 18:47:03: Opened screenshot system.
+2025-01-01 18:47:04: Opened screenshot system.
+2025-01-01 18:47:05: Unknown command executed: s
+2025-01-01 18:47:06: Unknown command executed: 
+2025-01-01 18:47:06: Unknown command executed: 
+2025-01-01 18:47:07: Unknown command executed: sss
+2025-01-01 18:47:08: Opened screenshot system.
+2025-01-01 18:47:19: Opened screenshot system.
+2025-01-01 18:47:26: Screenshot saved to E:/Importante/0SpacyOS/img/sd.png
+2025-01-01 18:47:34: Clock command executed.
+2025-01-01 18:47:57: Calculator Opened.
+2025-01-01 18:48:02: SpacyWeather launched.
