@@ -8,6 +8,8 @@ For the os to work correctly you need to download all the data files usually are
 If password.pkl is not empty type Ghh18.uin inside the OS to reset password.
 # Copyright
 You may use this app for making posts videos use it share it but you need to always give credits
+# License
+This file is under the MIT license read more in LICENSE
 # About
 SpacyOS is a high use resources OS made for windows, linux use may cause bugs. 
 
