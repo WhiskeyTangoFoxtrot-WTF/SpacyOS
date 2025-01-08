@@ -2,6 +2,10 @@
 OS.
 
 You may see files named Spacy... these are part of the os but not the os is all in one code.
+
+For the os to work correctly you need to download all the data files usually are the .pkl files these files may have data still on it.
+
+If password.pkl is not empty type Ghh18.uin inside the OS to reset password.
 # Copyright
 You may use this app for making posts videos use it share it but you need to always give credits
 # About
